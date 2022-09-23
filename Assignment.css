@@ -1,0 +1,77 @@
+body{
+    width: 960px;
+    margin-left: 470px;
+    margin-right: 470px;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    background-color: rgba(0, 0, 0, 0);
+    line-height: 20px;
+    
+}
+.Languages{
+    text-align-last: center;
+}
+a{
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Dauphin';
+    font-size: 70px;
+    text-align: center;
+}
+blockquote{
+    font-family: 'Open Sans';
+    text-align: center;
+    color: #000000;
+    font-size: 16px;
+}
+.quote{
+    font-family: 'Open Sans';
+    text-align: center;
+    font-size: 12px;
+    color: #000000;
+    margin-top: -10px;
+}
+.fade_rule {
+    align-content: center;
+    height: 2px;
+    background-color: #E6E6E6;
+    width: 66.0em;
+    margin: 0 auto;
+    background-image: linear-gradient(left , white 2%, #E6E6E6 50%, white 98%);
+    background-image: -o-linear-gradient(left , white 2%, #E6E6E6 50%, white 98%);
+    background-image: -moz-linear-gradient(left , white 2%, #E6E6E6 50%, white 98%);
+    background-image: -webkit-linear-gradient(left , white 2%, #E6E6E6 50%, white 98%);
+    background-image: -ms-linear-gradient(left , white 2%, #E6E6E6 50%, white 98%);
+    background-image: -webkit-gradient( linear, left bottom, right bottom, color-stop(0.02, white), color-stop(0.5, gray), 
+    color-stop(0.98, white) );
+}
+.col-container{
+    margin-top: 20px;
+    columns: 2;
+    column-gap: 25px;
+}
+h2{
+    font-family: 'Dauphin';
+    font-size: 24px;
+}
+p{
+    font-family: 'open Sans';
+    text-align: justify;
+    font-size: 14px;
+}
+img {
+    float: left;
+}
+#donate{
+    text-align: center;
+}
+#bitcoin{
+    text-align: center;
+}
+#translation{
+    text-align: center;
+}
+#mock{
+    text-align: center;
+}
